@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pant-web-app/static/css/main.90b70eeb.chunk.css",
+    "main.js": "/pant-web-app/static/js/main.e9094087.chunk.js",
+    "main.js.map": "/pant-web-app/static/js/main.e9094087.chunk.js.map",
+    "runtime~main.js": "/pant-web-app/static/js/runtime~main.c381e263.js",
+    "runtime~main.js.map": "/pant-web-app/static/js/runtime~main.c381e263.js.map",
+    "static/js/2.38348e94.chunk.js": "/pant-web-app/static/js/2.38348e94.chunk.js",
+    "static/js/2.38348e94.chunk.js.map": "/pant-web-app/static/js/2.38348e94.chunk.js.map",
+    "index.html": "/pant-web-app/index.html",
+    "precache-manifest.8eeae6132d48a025c9c0cf12234e121b.js": "/pant-web-app/precache-manifest.8eeae6132d48a025c9c0cf12234e121b.js",
+    "service-worker.js": "/pant-web-app/service-worker.js",
+    "static/css/main.90b70eeb.chunk.css.map": "/pant-web-app/static/css/main.90b70eeb.chunk.css.map",
+    "static/media/app.jpg": "/pant-web-app/static/media/app.8b2e537a.jpg",
+    "static/media/background.jpg": "/pant-web-app/static/media/background.1952ab52.jpg",
+    "static/media/App.css": "/pant-web-app/static/media/img3-.7404422d.jpg",
+    "static/media/dimg.jpeg": "/pant-web-app/static/media/dimg.6d9099f1.jpeg",
+    "static/media/dimg2.jpg": "/pant-web-app/static/media/dimg2.d5cc8cda.jpg",
+    "static/media/img1.jpg": "/pant-web-app/static/media/img1.8ad41cda.jpg",
+    "static/media/logo.png": "/pant-web-app/static/media/logo.cc158cf4.png",
+    "static/media/play.png": "/pant-web-app/static/media/play.04c212bd.png"
+  }
+}
