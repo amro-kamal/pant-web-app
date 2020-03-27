@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To view the page go to https://amro-kamal.github.io/pant-web-app/
 
 ## Available Scripts
 
