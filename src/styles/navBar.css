@@ -1,0 +1,14 @@
+.mynavbar {
+  /* opacity: 0.8 !important; */
+  /* background-color: #ffffff; */
+  /* background-color: #af9a7d; */
+}
+.mynavbar .nav-link {
+  opacity: 0.8 !important;
+  font-size: 15px;
+  color: #fff !important;
+  font-weight: bold;
+}
+.navbar {
+  background: transparent;
+}
